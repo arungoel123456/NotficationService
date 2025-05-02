@@ -11,6 +11,9 @@ Requirements
 
 
 Checkout our course on System Design here: https://getsdeready.com/courses/design-combined/
+
 Follow us on:
+
 LinkedIn: https://www.linkedin.com/in/arungoel0810
+
 Instagram: https://www.instagram.com/getsdeready/
