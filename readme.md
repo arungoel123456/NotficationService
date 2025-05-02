@@ -8,3 +8,9 @@ Requirements
 7. We should not send too many messages in a short time to the same user. For example, max 5 messages in 10 minutes.
 8. Messages can be scheduled. For example, “Send this reminder tomorrow at 10 AM.”
 9. Some messages are important (like OTP), others are not urgent (like offers). Important messages may be sent faster or retried sooner.
+
+
+Checkout our course on System Design here: https://getsdeready.com/courses/design-combined/
+Follow us on:
+LinkedIn: https://www.linkedin.com/in/arungoel0810
+Instagram: https://www.instagram.com/getsdeready/
